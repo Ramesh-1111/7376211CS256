@@ -5,7 +5,7 @@ export const Navbar = () => {
     <>
       <main>
         <nav>
-          <div className="logo">Logo</div>
+          <div className="logo">D Mart</div>
           <div className="nav-items">
             <ul>
               <li>
